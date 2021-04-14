@@ -1,0 +1,10 @@
+CreateTicket.c(31): Цена First билета 1 = 371
+CreateTicket.c(32): Цена First билета 2 = 330
+CreateTicket.c(33): Цена First билета 3 = 351
+CreateTicket.c(34): Цена First билета 4 = 303
+MakeFirstTicket.c(6): Выбор случайного билета First класс = 3
+MakeFirstTicket.c(7): Значение outboundFlight выбранного билета = 352;351;04/14/2021
+vuser_end.c(37):           
+vuser_end.c(39): Цена билета = 351
+vuser_end.c(40): Класс билета = First
+vuser_end.c(41): Инфо билета = 5pm : Flight 352 leaves Los Angeles  for Portland
